@@ -4,6 +4,8 @@
 
 @layer a, b);
 
+@media x { @layer) } .b { color: blue; }
+
 .a {
 	color: red;
 }
